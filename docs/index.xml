@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruce hugo homework assignment</title>
+    <link>https://bwang0601.github.io/Hugoassignment/</link>
+    <description>Recent content on Bruce hugo homework assignment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Sep 2019 21:33:58 -0600</lastBuildDate>
+    
+	<atom:link href="https://bwang0601.github.io/Hugoassignment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another Post</title>
+      <link>https://bwang0601.github.io/Hugoassignment/post/another-post/</link>
+      <pubDate>Thu, 26 Sep 2019 21:33:58 -0600</pubDate>
+      
+      <guid>https://bwang0601.github.io/Hugoassignment/post/another-post/</guid>
+      <description>Another post on the blog. Want to read more about me?</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://bwang0601.github.io/Hugoassignment/about/</link>
+      <pubDate>Thu, 26 Sep 2019 21:32:33 -0600</pubDate>
+      
+      <guid>https://bwang0601.github.io/Hugoassignment/about/</guid>
+      <description>I&amp;rsquo;m a BYU graduate student I&amp;rsquo;m taking CEEn 594R class right now</description>
+    </item>
+    
+    <item>
+      <title>Hello BYU!</title>
+      <link>https://bwang0601.github.io/Hugoassignment/post/hello-byu/</link>
+      <pubDate>Thu, 26 Sep 2019 21:27:03 -0600</pubDate>
+      
+      <guid>https://bwang0601.github.io/Hugoassignment/post/hello-byu/</guid>
+      <description>Welcome to my Hugo assginment blog
+I spend 10 hours and try to figure this out, I hope this time the website could work.
+Bruce wang.</description>
+    </item>
+    
+  </channel>
+</rss>
